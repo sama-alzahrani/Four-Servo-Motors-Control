@@ -1,4 +1,4 @@
-<img width="960" height="1020" alt="image" src="https://github.com/user-attachments/assets/e8bd0af2-1bfc-417c-b083-f569ec463970" /># 🤖 Four Servo Motors Control
+# 🤖 Four Servo Motors Control
 
 An Arduino project that controls four servo motors to perform a synchronized Sweep motion for two seconds, then stop and hold at 90 degrees.
 
